@@ -1,0 +1,3 @@
+en:
+  theme_metadata:
+    description: "Hides the lock icon on topics that are locked."

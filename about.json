@@ -1,8 +1,7 @@
 {
   "name": "Hide Lock Icon",
   "component": true,
-  "authors": "ICIJ",
-  "about_url": "",
+  "authors": "ICIJ <engineering@icij.org>",
   "license_url": "https://github.com/ICIJ/discourse-hide-lock-icon/blob/main/LICENSE",
   "learn_more": "https://github.com/ICIJ/discourse-hide-lock-icon/blob/main/README.md",
   "theme_version": "0.0.1",
